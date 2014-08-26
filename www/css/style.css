@@ -1,0 +1,29 @@
+/* Empty. Add your own CSS if you like */
+.gridStyle {
+    border: 1px solid rgb(212,212,212);
+
+    position: absolute;
+    top: 10%;
+    /*top: 0;*/
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.cellButtonRight{
+    float: right;
+}
+
+.cellDataCenter{
+    text-align: center;
+}
+
+.ngTopPanel{
+    text-align: center;
+}
+
+.bar-balanced {
+    box-shadow: 0px 5px 5px grey;
+}
+
+

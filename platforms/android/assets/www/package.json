@@ -1,0 +1,19 @@
+{
+    "name": "application-name",
+    "version": "0.0.1"
+}
+"Company":"Test 1", 	"Revenue":"$4,612,234", 	"Direct Cost":"$146,432", 	"Indirect Cost":"$2,312,432", 	"Profit or Loss":"$2,153,370"
+
+"Company":"Test 2", 	"Revenue":"$612,234 ", 	"Direct Cost":"", 	"Indirect Cost":"", 	"Profit or Loss":""
+Test 2 		$14,643 	$2,432 	$595,159
+
+{"Company":"Test 1", 	"Revenue":"$4612234", 	"Direct Cost":"$146432", 	"Indirect Cost":"$2312432", 	"Profit or Loss":"$2153370"},
+{"Company":"Test 2", 	"Revenue":"$612234", 	"Direct Cost":"$14643", 	"Indirect Cost":"$2432", 	"Profit or Loss":"$595159"},
+{"Company":"Test 3", 	"Revenue":"$1612234", 	"Direct Cost":"$46432", 	"Indirect Cost":"$12432", 	"Profit or Loss":"$1553370"},
+{"Company":"Test 4", 	"Revenue":"$461223", 	"Direct Cost":"$1464", 	"Indirect Cost":"$2312", 	"Profit or Loss":"$457447"},
+{"Company":"Test 5", 	"Revenue":"$12234", 	"Direct Cost":"$6432", 	"Indirect Cost":"$23112", 	"Profit or Loss":"-$17310"},
+{"Company":"Test 6", 	"Revenue":"$4612", 	"Direct Cost":"$146", 	"Indirect Cost":"$24321", 	"Profit or Loss":"-$19855"},
+{"Company":"Test 7", 	"Revenue":"$32234", 	"Direct Cost":"$6432", 	"Indirect Cost":"$2432", 	"Profit or Loss":"$23370"},
+{"Company":"Test 8", 	"Revenue":"$42234", 	"Direct Cost":"$146", 	"Indirect Cost":"$23124", 	"Profit or Loss":"$18964"},
+{"Company":"Test 9", 	"Revenue":"$1112234", 	"Direct Cost":"$432", 	"Indirect Cost":"$23124", 	"Profit or Loss":"$1088678"}
+

@@ -1,0 +1,11 @@
+[
+    {"Company":"Test 1", 	"Revenue":4612234,  	"DirectCost":"146432", 	"InDirectCost":"2312432", 	"ProfitOrLoss":"2153370"},
+    {"Company":"Test 2", 	"Revenue":612234, 	    "DirectCost":"14643", 	"InDirectCost":"2432",  	"ProfitOrLoss":"595159"},
+    {"Company":"Test 3", 	"Revenue":"1612234", 	"DirectCost":"46432", 	"InDirectCost":"12432", 	"ProfitOrLoss":"1553370"},
+    {"Company":"Test 4", 	"Revenue":"461223", 	"DirectCost":"1464", 	"InDirectCost":"2312",  	"ProfitOrLoss":"457447"},
+    {"Company":"Test 5", 	"Revenue":"12234", 	    "DirectCost":"6432", 	"InDirectCost":"23112", 	"ProfitOrLoss":"-17310"},
+    {"Company":"Test 6", 	"Revenue":"4612",   	"DirectCost":"146", 	"InDirectCost":"24321", 	"ProfitOrLoss":"-19855"},
+    {"Company":"Test 7", 	"Revenue":"32234",  	"DirectCost":"6432", 	"InDirectCost":"2432",  	"ProfitOrLoss":"23370"},
+    {"Company":"Test 8", 	"Revenue":"42234", 	    "DirectCost":"146", 	"InDirectCost":"23124", 	"ProfitOrLoss":"18964"},
+    {"Company":"Test 9", 	"Revenue":"1112234", 	"DirectCost":"432", 	"InDirectCost":"23124", 	"ProfitOrLoss":"1088678"}
+]
